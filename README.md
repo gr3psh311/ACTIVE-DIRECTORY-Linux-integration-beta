@@ -1,2 +1,4 @@
-# AD-beta
-the scripts are not yet ready, this is not even a beta version!
+# ACTIVE-DIRECTORY-Linux-integration-beta
+These scripts serve to integrate ubuntu machines on active directory
+
+NB: the scripts are not yet completed
